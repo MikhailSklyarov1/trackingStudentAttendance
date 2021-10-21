@@ -2394,6 +2394,7 @@ int style Base_Widget_MaterialComponents_Slider 0x7f0f00dc
 int style Base_Widget_MaterialComponents_TextInputEditText 0x7f0f00dd
 int style Base_Widget_MaterialComponents_TextInputLayout 0x7f0f00de
 int style Base_Widget_MaterialComponents_TextView 0x7f0f00df
+int style ButtonStyle 0x7f0f02b5
 int style CardView 0x7f0f00e0
 int style CardView_Dark 0x7f0f00e1
 int style CardView_Light 0x7f0f00e2
