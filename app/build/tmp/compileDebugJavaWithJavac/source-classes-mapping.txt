@@ -1,7 +1,7 @@
-com/example/myapplication/BuildConfig.java
- com.example.myapplication.BuildConfig
 com/example/myapplication/StudentPage.java
  com.example.myapplication.StudentPage
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
 com/example/myapplication/MainActivity.java
  com.example.myapplication.MainActivity
 com/example/myapplication/teacherPage.java
