@@ -1667,6 +1667,7 @@ id blocking
 id bottom
 id bounce
 id btnLogIn
+id button
 id buttonPanel
 id cancel_button
 id center
